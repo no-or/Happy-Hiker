@@ -11,3 +11,5 @@ from Firebase) and highlights the user’s most recent location
 
 -> The App asks the user to complete a form (age, height etc.) and save it to the
 Firebase for Park Ranger
+
+# A demo of the app is on the repo
