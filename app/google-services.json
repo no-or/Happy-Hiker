@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769327509152",
+    "firebase_url": "https://happy-hiker-5b3be.firebaseio.com",
+    "project_id": "happy-hiker-5b3be",
+    "storage_bucket": "happy-hiker-5b3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769327509152:android:73c949a767cfed87",
+        "android_client_info": {
+          "package_name": "com.example.android.happyhiker3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769327509152-h7985c2hmeaibm8b7egm26er75vbkct3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.happyhiker3",
+            "certificate_hash": "7147a3d9dc5a7b160cc3d12716d2ddf32804f814"
+          }
+        },
+        {
+          "client_id": "769327509152-6fstv5oqgie651ghmc751b6cffv5vngf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANhBroKsbnymM33BbYA1E8VIHW29fORUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769327509152-6fstv5oqgie651ghmc751b6cffv5vngf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
